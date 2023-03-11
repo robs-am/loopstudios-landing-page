@@ -1,10 +1,9 @@
 import React from "react";
-import img from "../../../assets/img/desktop/image-hero.jpg";
 
-const Banner = () => {
+const Banner = ({ bannerImg }) => {
   return (
     <div>
-      <img src={img} alt="banner" />
+      <img src={bannerImg} alt="banner" />
     </div>
   );
 };
