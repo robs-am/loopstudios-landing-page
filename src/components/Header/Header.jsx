@@ -5,8 +5,10 @@ import logo from "../../assets/svg/logo.svg";
 const Header = () => {
   return (
     <>
-      <img src={logo} alt="logo loopstudios" />
-      <Navbar />
+      <section className="header">
+        <img src={logo} alt="logo" />
+        <Navbar />;
+      </section>
     </>
   );
 };
