@@ -5,8 +5,8 @@ import Header from "../Header/Header";
 const Homepage = () => {
   return (
     <div>
-      <Banner bannerImg={"./images/mobile/image-hero.jpg"} />
       <Header />
+      <Banner bannerImg={"./images/mobile/image-hero.jpg"} />
     </div>
   );
 };
