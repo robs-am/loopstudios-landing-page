@@ -31,7 +31,7 @@ const Ul = styled.ul`
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-around;
+  //justify-content: space-around;
 `;
 
 const Li = styled.li`

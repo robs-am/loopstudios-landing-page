@@ -17,7 +17,11 @@ const Section = styled.section`
   display: flex;
   align-items: center;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-between;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  width: 100vw;
 `;
 
 export default Header;
