@@ -8,7 +8,7 @@ const Header = () => {
     <>
       <Section>
         <img src={logo} alt="logo" />
-        <Navbar />;
+        <Navbar />
       </Section>
     </>
   );
