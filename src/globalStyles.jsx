@@ -7,6 +7,11 @@ const GlobalStyle = createGlobalStyle`
     //background: teal;
     font-family: 'Josefin Sans', sans-serif;
     }
+
+    a {
+        text-decoration: none;
+        font-size:18px;
+    }
 `;
 
 export default GlobalStyle;
