@@ -19,4 +19,5 @@ const SectionHome = styled.div`
   display: flex;
   flex-direction: column;
   position: relative;
+  width: auto;
 `;
