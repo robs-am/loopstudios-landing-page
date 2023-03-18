@@ -36,7 +36,7 @@ const Ul = styled.ul`
 
 const Li = styled.li`
   list-style: none;
-  padding: 1rem;
+  padding: 1.5rem;
 `;
 
 const Link = styled.a`

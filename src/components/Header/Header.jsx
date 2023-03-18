@@ -17,11 +17,15 @@ const Section = styled.section`
   display: flex;
   align-items: center;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: space-around;
   background-color: transparent;
   position: absolute;
+  margin-top: 3rem;
+
   top: 0;
   width: 100vw;
 `;
+
+const Logo = styled.img``;
 
 export default Header;
