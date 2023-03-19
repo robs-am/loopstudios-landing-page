@@ -19,6 +19,7 @@ export default Homepage;
 
 const SectionHome = styled.div`
   display: flex;
+
   flex-direction: column;
   position: relative;
 `;
