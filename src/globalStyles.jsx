@@ -5,7 +5,12 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     //background: teal;
-    font-family: Helvetica, Sans-Serif;
+    font-family: 'Josefin Sans', sans-serif;
+    }
+
+    a {
+        text-decoration: none;
+        font-size:18px;
     }
 `;
 
