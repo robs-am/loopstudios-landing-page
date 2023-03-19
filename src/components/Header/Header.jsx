@@ -23,7 +23,7 @@ const Section = styled.section`
   margin-top: 3rem;
 
   top: 0;
-  width: 100vw;
+  width: 100%;
 `;
 
 const Logo = styled.img``;
